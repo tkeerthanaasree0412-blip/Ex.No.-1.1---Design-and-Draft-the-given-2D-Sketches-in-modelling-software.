@@ -13,35 +13,52 @@ To sketch the given drawing with dimensions using fusion 360 tool.
   
 ## PROCEDURE
 
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
+1.Open up Autodesk Fusion 360 and select New Design.
 
-![image](https://user-images.githubusercontent.com/113594316/198206497-ca83d495-119b-45cd-b43d-8ca3ea7e9544.png)
+2.Select the XY Plane and select new sketch.
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+3.Select circle from the Create option .Create the top two concentric circles, with diameters of Ø32mm and Ø20mm.
+<img width="363" height="461" alt="Screenshot 2026-10-11 172134" src="https://github.com/user-attachments/assets/e6049664-6f20-4492-af02-97be66bfe02b" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206562-68463016-3f32-4a87-aa5b-7a17dd023b31.png)
 
-5.	Use inspect feature to measure the dimensions of sketch.
+4.Select circle again and Create the bottom two concentric circles with diameters of Ø20mm and Ø10mm.
+<img width="363" height="461" alt="Screenshot 2026-10-11 172134" src="https://github.com/user-attachments/assets/43716c49-ab05-4db9-8f67-c947e805749a" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206621-6348e8a3-4bbd-4a1f-96d3-db16fbf933d9.png)
+5.Create the two side circles with an outside diameter of Ø20mm and an inside diameter of Ø14mm.
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+6.Ensure they are both 47mm horizontally from the central vertical line.
 
-![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
+7.Draw circles of  dimensions  Ø128mm and Ø40mm.Use tangent option under constraints to connect the circles.
+<img width="553" height="376" alt="Screenshot 2026-11-03 210934" src="https://github.com/user-attachments/assets/50531169-28d1-4bd4-98b0-eca3f91b915c" />
 
-7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
 
-![image](https://user-images.githubusercontent.com/113594316/198206697-2e3ead2b-7d1e-436e-bc36-aa2e73c1e78e.png)
+8.Use trim option under modify  to trim out the excess to get the curves.
+<img width="518" height="352" alt="image" src="https://github.com/user-attachments/assets/497e9226-5972-4d3e-92dd-ae345b67a43a" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
+
+9.Add the vertical dimensions of 65mm, 50mm and 24mm using the Sketch Dimension tool.
+
+10.Using the Mirror tool under create and Trim tool complete your 2D profile.
+<img width="586" height="473" alt="image" src="https://github.com/user-attachments/assets/5437b7c5-df72-4633-8373-0b399ba6e033" />
+
+11.Check all the dimensions are correct. Ensure the outer profile is fully enclosed and click Finish Sketch.
+<img width="126" height="192" alt="Screenshot 2026-11-03 211255" src="https://github.com/user-attachments/assets/a94fc8f4-5241-4e0b-9b93-7e73e6467352" />
+
+12.Click Create then Extrude. Select your enclosed profile.
+<img width="503" height="605" alt="image" src="https://github.com/user-attachments/assets/5bf4f615-0bdd-4f14-9f6b-25c847f5d561" />
+
+13.Type in your desired thickness and click OK. This will create your 3D model from your 2D sketch.
+
+14.Save your design.
 
 
 ## SKETCHS
-![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
+<img width="716" height="688" alt="Screenshot 2026-10-05 230832" src="https://github.com/user-attachments/assets/1e594d6c-2039-42db-bf5a-726d76f91d57" />
+
 
 ## OUTPUT
+<img width="1920" height="1080" alt="Screenshot 2026-10-05 210437" src="https://github.com/user-attachments/assets/bfa6ac48-c7fc-4d14-a448-8e06f32a5d74" />
+<img width="1012" height="712" alt="Screenshot 2026-10-05 212659" src="https://github.com/user-attachments/assets/3324dacd-8b69-4910-a5d5-e1fc1a791036" />
 
 
 ## RESULT
