@@ -42,9 +42,11 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 <img width="586" height="473" alt="image" src="https://github.com/user-attachments/assets/5437b7c5-df72-4633-8373-0b399ba6e033" />
 
 11.Check all the dimensions are correct. Ensure the outer profile is fully enclosed and click Finish Sketch.
+
 <img width="126" height="192" alt="Screenshot 2026-11-03 211255" src="https://github.com/user-attachments/assets/a94fc8f4-5241-4e0b-9b93-7e73e6467352" />
 
 12.Click Create then Extrude. Select your enclosed profile.
+
 <img width="503" height="605" alt="image" src="https://github.com/user-attachments/assets/5bf4f615-0bdd-4f14-9f6b-25c847f5d561" />
 
 13.Type in your desired thickness and click OK. This will create your 3D model from your 2D sketch.
