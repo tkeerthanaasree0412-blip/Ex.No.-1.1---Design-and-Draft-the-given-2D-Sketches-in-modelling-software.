@@ -14,20 +14,27 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ## PROCEDURE
 
 1.Open up Autodesk Fusion 360 and select New Design.
+
 2.Select the XY Plane and select new sketch.
+
 3.Select circle from the Create option .Create the top two concentric circles, with diameters of Ø32mm and Ø20mm.
 
 <img width="363" height="461" alt="Screenshot 2026-10-11 172134" src="https://github.com/user-attachments/assets/e6049664-6f20-4492-af02-97be66bfe02b" />
 
 4.Select circle again and Create the bottom two concentric circles with diameters of Ø20mm and Ø10mm.
+
 <img width="363" height="461" alt="Screenshot 2026-10-11 172134" src="https://github.com/user-attachments/assets/43716c49-ab05-4db9-8f67-c947e805749a" />
 
 5.Create the two side circles with an outside diameter of Ø20mm and an inside diameter of Ø14mm.
+
 6.Ensure they are both 47mm horizontally from the central vertical line.
+
 7.Draw circles of  dimensions  Ø128mm and Ø40mm.Use tangent option under constraints to connect the circles.
+
 <img width="553" height="376" alt="Screenshot 2026-11-03 210934" src="https://github.com/user-attachments/assets/50531169-28d1-4bd4-98b0-eca3f91b915c" />
 
 8.Use trim option under modify  to trim out the excess to get the curves.
+
 <img width="518" height="352" alt="image" src="https://github.com/user-attachments/assets/497e9226-5972-4d3e-92dd-ae345b67a43a" />
 
 9.Add the vertical dimensions of 65mm, 50mm and 24mm using the Sketch Dimension tool.
